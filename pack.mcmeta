@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Experiment data pack by Gavin Meeker",
+        "pack_format": 71,
+        "supported_formats": [61,71]
+    }
+}

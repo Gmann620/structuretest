@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": "#minecraft:is_overworld",
+    "step": "underground_structures",
+    "": "bury",
+    "spawn_overrides": {},
+    "start_pool": "structuretest:",
+    "size": 10,
+    "start_height": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": 0
+      },
+      "max_inclusive": {
+        "absolute": 40
+      }
+    },
+    "start_jigsaw_name": "structuretest:hallway_fourway",
+    "max_distance_from_center": 60,
+    "use_expansion_hack": false,
+    "pool_aliases": []
+  }
