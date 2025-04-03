@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "structuretest:largedungeon",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "spacing": 10,
+      "separation": 18,
+      "salt": 453182,
+      "frequency": 0.1
+    }
+  }
